@@ -9,11 +9,15 @@ __Mariana Costa Checa__
 
 ![Mariana](pictures/mary.jpg) 
 
-### Co-founder & CDO
-_Herman Marin_
-
 ### Co-founder & CPO
 _Rodulfo Prieto_
+
+![Rodulfo](pictures/rodulfo2-2__small__small.jpg) 
+
+### Partner & COO
+Ana María Martínez Franklin
+
+![Ana](pictures/pic.jpg)
 
 ### Coaches:
 
