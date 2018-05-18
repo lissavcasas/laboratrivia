@@ -6,7 +6,7 @@ LABORATRIVIA
 
 ### *Co-founder & CEO*
 __Mariana Costa Checa__
-![Sin titulo](pictures/mary.png)
+![Mariana](pictures/mary.jpg)
 
 ### Co-founder & CDO
 _Herman Marin_
